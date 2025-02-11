@@ -1,2 +1,2 @@
-# infometeoba
-Informeteoba
+# synops
+Synops
